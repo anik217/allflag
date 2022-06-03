@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(163, 159, 159);
+   
+     }
+
+h1{
+    color: rgb(68, 0, 255);
+}
+
+.sobuj{
+    height: 300px;
+    width: 500px;
+    background-color: green;
+    position: relative;
+    
+}
+.lal{
+    height: 180px;
+    width: 180px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+}
+.white{
+    height: 300px;
+    width: 500px;
+    background-color: #ffff;
+    position: relative;
+}
+
